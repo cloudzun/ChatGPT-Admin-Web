@@ -70,7 +70,7 @@
 ## ☁️ 许可证 License
 
 本仓库中 [apps/chat](./apps/chat) 是基于仓库 [Yidadaa's repository](https://github.com/Yidadaa/ChatGPT-Next-Web) 的
-996许可证以[MIT license](./LICENSE)的形式从新分发。
+996许可证以[MIT license](./LICENSE)的形式重新分发。
 
 其他部分均以[MIT license](./LICENSE)分发。
 
